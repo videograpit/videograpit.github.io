@@ -1,2 +1,2 @@
 # videograpit.github.io
-ancur-ancuran
+bikin gambar ancur-ancuran
